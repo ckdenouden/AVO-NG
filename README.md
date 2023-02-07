@@ -1,4 +1,4 @@
-# :evergreen_tree: Animonculory Visual Overhaul - Next Generation
+# :evergreen_tree: Animonculory Visual Overhaul - Next Generation (AVO-NG)
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp)
 
@@ -25,6 +25,8 @@ Wabbajack Modlist Installer by The Animonculory
 
 The Next Generation (NG for short) version of Animonculory Visual Overhaul seeks to being the game up to modern standards without drastically changing the things that make Skyrim Skyrim. Featuring minimal city overhaul mods, tweaks and expansions to vanilla quests, full creation club integration, a comprehensive graphical overhaul and full seasons support, it still remains an excellent base to build off.
 
+AVO-NG replaces and supersedes previous versions/Editions of Animonculory Visual Overhaul and, as a result, is **not compatible** with saves made using the older versions. Major engine and graphical changes have been made which **will** cause you to crash.
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## :computer: System Requirements
@@ -37,11 +39,13 @@ AVO-NG is a heavier list than AVO was and thus, as a result, requires beefier ha
 
 :warning: RX 500 series cards (580 or similar) are **not supported.** :warning:
 
-Space required: Approx 156GB (Downloads included)
+Space required: Approx 220GB (Downloads included)
 
 ## :page_facing_up: Installation
 
 :warning: AVO-NG requires a **COMPLETELY UNMODIFIED** installation of the **LATEST VERSION** of Skyrim. :warning:
+
+:exclamation: AVO-NG is **NOT COMPATIBLE** with the GOG version of Skyrim. :exclamation:
 
 Installing AVO-NG is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
@@ -109,6 +113,9 @@ AVO-NG uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### :telescope: Graphical Post-Processing 
 
+AVO-NG uses Solas Weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
+
+An ENB manager is included to allow you to easily add new presets and swap between them.
 
 ## :arrow_forward: Playing the List
 
@@ -118,13 +125,12 @@ Open the installation folder and double click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### :bookmark: In-Game MCM options
-`AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
+AVO-NG has all it's MCM options pre-configured via MCM recorder. If you wish to change any settings, you can do so.
 
 ### :horse_racing: Starting the Game
 
-- Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+By default, AVO-NG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to bypass the starting sequence of the game and spawn you into the Helgen tunnel. The equipment chest has been custom configured for the list to provide a range of starting equipment.
 	
 ## :chart_with_upwards_trend: Updating the modlist
 
@@ -163,8 +169,7 @@ You are welcome to [contribute](https://github.com/The-Animonculory/AVO-NG/blob/
 - Styyx - Senior Management Team & Dev Team (Author of [Ruvaak](https://github.com/chri3i/Ruvaak-Readme))
 - Chef/Para0x - Senior Management Team & Dev Team (Author of [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Readme.md))
 - The Spaniard -Senior Management Team, Documentation & Dev Team
-- GuitarBarbarian - Senior Management Team
+- GuitarBarbarian/KFC - Senior Management Team
 - Abandoned by Arkay - Dev Team & Testing (Author of [DNGG](https://github.com/Arkay-1248/Do-Not-Go-Gentle))
 - Astro - Dev Team & Testing
-- DestinySlayer - Dev Team & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
-
+- DestinySlayer - Dev Team, Testing & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
