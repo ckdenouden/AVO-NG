@@ -23,7 +23,15 @@ Wabbajack Modlist Installer by The Animonculory
 
 ## :information_source: Preamble
 
-The Next Generation (NG for short) version of Animonculory Visual Overhaul seeks to being the game up to modern standards without drastically changing the things that make Skyrim Skyrim. Featuring minimal city overhaul mods, tweaks and expansions to vanilla quests, full creation club integration, a comprehensive graphical overhaul and full seasons support, it still remains an excellent base to build off.
+> `"...the best way to make your own list."`
+> 
+> `"...gorgeous visuals and ability to make it your own..."`
+>
+> `"...absolutely amazing..."`
+
+The premier graphical overhaul for Skyrim Special Edition, **Animonculory Visual Overhaul** has been installed several thousand times and garnered a reputation for offering a perfect base to build your modded game from.
+
+The Next Generation (NG for short) version of Animonculory Visual Overhaul seeks to being the game up to modern standards without drastically changing the things that make Skyrim Skyrim. Featuring minimal tweaks to settlements, full creation club integration, a comprehensive graphical overhaul and no feature creep, it remains the perfect base to build off.
 
 AVO-NG replaces and supersedes previous versions/Editions of Animonculory Visual Overhaul and, as a result, is **not compatible** with saves made using the older versions. Major engine and graphical changes have been made which **will** cause you to crash.
 
@@ -45,8 +53,6 @@ Space required: Approx 220GB (Downloads included)
 
 :warning: AVO-NG requires a **COMPLETELY UNMODIFIED** installation of the **LATEST VERSION** of Skyrim. :warning:
 
-:exclamation: AVO-NG is **NOT COMPATIBLE** with the GOG version of Skyrim. :exclamation:
-
 Installing AVO-NG is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### :clipboard: Pre-Installation
@@ -59,7 +65,7 @@ Prior to installing AVO-NG, please complete the following steps.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Start the game to the main menu in order to download all the creations.
+7.[Steam Only] Start the game to the main menu in order to download all the creations.
 
 ***
 
@@ -105,19 +111,29 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ## :floppy_disk: Post-Installation
 
 
-### :file_folder: Stock Game
+### :file_folder: Root Builder
 
-AVO-NG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
 
 ***
 
 ### :telescope: Graphical Post-Processing 
 
-AVO-NG uses Solas Weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
+AVO-NG uses vanilla weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
 
-An ENB manager is included to allow you to easily add new presets and swap between them.
+A range of ENB's are included to allow you to easily swap between them to find your preferred style.
+
+**NOTE!**: Screenshots save to `Overwrite/Root`.
 
 ## :arrow_forward: Playing the List
+
+### :straight_ruler: GOG Setup
+
+Depending on your game version, Wabbajack will either map to your steam install of the game or your GOG install. If both are present, it will **default** to using the steam version.
+
+To enable ADT's `GOG Mode`, activate all the mods under the seperator called `GOG Compatability`.
+
+Tools which are tagged **[GOG]** should be used when running in this mode owing to the need to redirect paths for required files.
 
 ### :runner:  Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
