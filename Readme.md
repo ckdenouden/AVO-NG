@@ -121,7 +121,7 @@ To enable compatability with the GOG versions of Skyrim, AVO uses a tool known a
 
 AVO-NG uses vanilla weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
 
-A range of ENB's are included to allow you to easily swap between them to find your preferred style.
+A range of ENB's are included to allow you to easily swap between them to find your preferred style. For more details on how to change it, please see [Adding mods to AVONG](https://github.com/The-Animonculory/AVO-NG/blob/main/Adding%20mods%20to%20AVONG.md#changing-the-graphical-post-processing).
 
 **NOTE!**: Screenshots save to `Overwrite/Root`.
 
@@ -131,9 +131,11 @@ A range of ENB's are included to allow you to easily swap between them to find y
 
 Depending on your game version, Wabbajack will either map to your steam install of the game or your GOG install. If both are present, it will **default** to using the steam version.
 
-To enable ADT's `GOG Mode`, activate all the mods under the seperator called `GOG Compatability`.
+To enable AVONG's `GOG Mode`, activate all the mods under the seperator called `GOG Compatability`.
 
-Tools which are tagged **[GOG]** should be used when running in this mode owing to the need to redirect paths for required files.
+### Ultrawide Setup
+
+To enable 21x9 ultrawide support, activate the mods under `21x9 user interface`. **NOTE**: Resolutions outside of 21x9 and 16x9 are **NOT** supported.
 
 ### :runner:  Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
