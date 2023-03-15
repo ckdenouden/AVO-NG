@@ -6,6 +6,8 @@
 - Swapped tree model to hopefully improve performance.
 - Swapped grass mod due to weirdness with ENB grass.
 - Added OSD for Display Tweaks to monitor performance better.
+- Regenned lods.
+- Ruvaak Dahmaan enabled by default.
 
 ## 4.0 Alpha 1
 
