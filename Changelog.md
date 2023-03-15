@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.0 Alpha 2
+
+**Info**:
+- Swapped tree model to hopefully improve performance.
+- Swapped grass mod due to weirdness with ENB grass.
+- Added OSD for Display Tweaks to monitor performance better.
+
 ## 4.0 Alpha 1
 
 **Info**:
