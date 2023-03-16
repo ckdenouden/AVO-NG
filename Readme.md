@@ -49,7 +49,7 @@ AVO-NG is a heavier list than AVO was and thus, as a result, requires beefier ha
 
 :warning: RX 500 series cards (580 or similar) are **not supported.** :warning:
 
-Space required: Approx 220GB (Downloads included)
+Space required: Approx 192GB (Downloads included)
 
 ## :page_facing_up: Installation
 
@@ -113,9 +113,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ## :floppy_disk: Post-Installation
 
 
-### :file_folder: Root Builder
+### :file_folder: Stock Game
 
-To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
+AVO-NG utilises a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatability with other mod-lists.
 
 ***
 
