@@ -6,6 +6,7 @@
 - Swapped tree model to hopefully improve performance.
 - Swapped grass mod due to weirdness with ENB grass.
 - Added OSD for Display Tweaks to monitor performance better.
+- Updated Ice Meshes, COCKS Dear Diary patch 
 - Regenned lods.
 - Ruvaak Dahmaan enabled by default.
 
