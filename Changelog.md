@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.0 Beta 1
+
+**Info**:
+- Further tweaked ini files to improve performance
+- Regenerated Lods using "The Animonculory Settings" to improve performance.
+- Tweaked ENB's to fit into vision a bit better.
+
 ## 4.0 Alpha 2
 
 **Info**:
