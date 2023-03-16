@@ -39,6 +39,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## :computer: System Requirements
 
+:exclamation: **AVO-NG DOES NOT SUPPORT GOG VERSIONS OF SKYRIM AE** :exclamation:
+
 :warning: AVO-NG requires the most recent update to Windows 10 or 11 to function properly. LTSC or special variants of the operating systems **WILL NOT WORK**. :warning:
 
 AVO-NG is a heavier list than AVO was and thus, as a result, requires beefier hardware to run it.
@@ -65,7 +67,7 @@ Prior to installing AVO-NG, please complete the following steps.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7.[Steam Only] Start the game to the main menu in order to download all the creations.
+7. Start the game to the main menu in order to download all the creations.
 
 ***
 
@@ -121,17 +123,11 @@ To enable compatability with the GOG versions of Skyrim, AVO uses a tool known a
 
 AVO-NG uses vanilla weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
 
-A range of ENB's are included to allow you to easily swap between them to find your preferred style. For more details on how to change it, please see [Adding mods to AVONG](https://github.com/The-Animonculory/AVO-NG/blob/main/Adding%20mods%20to%20AVONG.md#changing-the-graphical-post-processing).
+A range of ENB's are included to allow you to easily swap between them to find your preferred style. Simply open up the ENB organiser and pick the one you want.
 
-**NOTE!**: Screenshots save to `Overwrite/Root`.
+**NOTE!**: Screenshots save to `AVONG/Game Root`.
 
 ## :arrow_forward: Playing the List
-
-### :straight_ruler: GOG Setup
-
-Depending on your game version, Wabbajack will either map to your steam install of the game or your GOG install. If both are present, it will **default** to using the steam version.
-
-To enable AVONG's `GOG Mode`, activate all the mods under the seperator called `GOG Compatability`.
 
 ### Ultrawide Setup
 
