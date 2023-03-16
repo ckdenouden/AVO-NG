@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.0 Beta 2
+
+**Info**:
+- Swapped to steam based stock game installation.
+- Swapped base game files for steam versions.
+- Removed Root Builder.
+
 ## 4.0 Beta 1
 
 **Info**:
