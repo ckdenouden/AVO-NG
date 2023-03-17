@@ -4,6 +4,10 @@
 
 **Info**:
 - Fixed issue with potion models in the UI.
+- Removed Northern Roads.
+- Added Blended Roads + WineDave's remesh & retexture.
+- Repatched where necessary.
+- Regenned lods.
 
 ## 4.0 Beta 2
 
