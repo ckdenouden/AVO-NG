@@ -45,7 +45,14 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 AVO-NG is a heavier list than AVO was and thus, as a result, requires beefier hardware to run it.
 
-**Fill in with data from Spaniard once ready**
+My specs:
+
+R7 5800x
+32GB DDR4
+NVME M.2
+RTX 3090 FE
+
+I average 67fps @ 1440p ultrawide (21x9).
 
 :warning: RX 500 series cards (580 or similar) are **not supported.** :warning:
 
@@ -124,6 +131,8 @@ AVO-NG utilises a Wabbajack technology called Stock Game. What this essentially 
 AVO-NG uses vanilla weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
 
 A range of ENB's are included to allow you to easily swap between them to find your preferred style. Simply open up the ENB organiser and pick the one you want.
+
+By default, Ruvaak Dahmaan ENB is enabled.
 
 **NOTE!**: Screenshots save to `AVONG/Game Root`.
 
