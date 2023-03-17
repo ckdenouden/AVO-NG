@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0 Beta 3
+
+**Info**:
+- Fixed issue with potion models in the UI.
+
 ## 4.0 Beta 2
 
 **Info**:
