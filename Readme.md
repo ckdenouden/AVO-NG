@@ -47,12 +47,12 @@ AVO-NG is a heavier list than AVO was and thus, as a result, requires beefier ha
 
 My specs:
 
-R7 5800x
-32GB DDR4
-NVME M.2
-RTX 3090 FE
+- R7 5800x
+- 32GB DDR4
+- NVME M.2
+- RTX 3090 FE
 
-I average 67fps @ 1440p ultrawide (21x9).
+I average *locked* 84fps @ 1440p ultrawide (21x9).
 
 :warning: RX 500 series cards (580 or similar) are **not supported.** :warning:
 
@@ -128,11 +128,9 @@ AVO-NG utilises a Wabbajack technology called Stock Game. What this essentially 
 
 ### :telescope: Graphical Post-Processing 
 
-AVO-NG uses vanilla weathers for its weather mod and the Lux suite for lighting improvements. As a result, if you wish to change the ENB you will need to bear that in mind.
+AVO-NG uses Solas weathers for its weather mod and the Lux suite for lighting improvements. By default, the list uses E.V.C ENB which complements it perfectly. If you wish to change the ENB, an ENB manager is included to facilitate this.
 
-A range of ENB's are included to allow you to easily swap between them to find your preferred style. Simply open up the ENB organiser and pick the one you want.
-
-By default, Ruvaak Dahmaan ENB is enabled.
+Skyrim Upscaler is also included, configured in DLAA mode to enable ENB comatability. This is disabled by default, but can easily be enabled through the ENB manager.
 
 **NOTE!**: Screenshots save to `AVONG/Game Root`.
 
