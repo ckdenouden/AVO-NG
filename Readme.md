@@ -56,7 +56,7 @@ I average *locked* 84fps @ 1440p ultrawide (21x9).
 
 :warning: RX 500 series cards (580 or similar) are **not supported.** :warning:
 
-Space required: Approx 192GB (Downloads included)
+Space required: Approx 162GB (Downloads included)
 
 ## :page_facing_up: Installation
 
