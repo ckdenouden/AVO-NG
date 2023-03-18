@@ -1,5 +1,33 @@
 # Changelog
 
+## 4.0 RC 1
+
+**Info**:
+- Adjusted resolution of certain files to improve performance w/ no cost to visual quality.
+- Adjusted ini's to correspond to change in weather/enb.
+- Changed ENB light version to better match E.V.C & imrpove stability/performance.
+- Fixed issue with dual sheath meshes
+- Fixed mesh issues with Lux
+- Fixed performance issues with landscape textures
+
+**Download Changes**:
+
+*Removed*
+- Ebony ENB
+- EVLAS
+- Resuregence Elven
+- Ruvaak Dahmaan ENB
+- Skyland Landscapes
+
+*Added*
+- Elven Armors and Weapons Retexture
+- E.V.C ENB
+- Northern Shores
+- Septentrional Landscapes
+- Solas Weathers
+- Spaghetti's Towns - Karthwasaten
+- Rum Induced Mountains
+
 ## 4.0 Beta 3
 
 **Info**:
