@@ -1,5 +1,29 @@
 # Changelog
 
+## 4.0 RC 3
+
+**Info**:
+- Reworked water and waterfalls to provide greater consistency and performance.
+- Reworked lighting to improve performance and achieve more consistency.
+- Regenerated output files.
+
+**Download Changes**:
+
+*Added*
+- Cathedral Water
+- ELE
+- MLOS
+- More Wooden Bridges
+- Natural Waterfalls
+- SkyVRaan Water Patcher
+- WaterMod
+
+*Removed*
+ - Lux
+ - Lux Via
+ - Lux Orbis
+ - Water For ENB
+
 ## 4.0 RC 2
 
 **Info**:
