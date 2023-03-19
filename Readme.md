@@ -128,7 +128,7 @@ AVO-NG utilises a Wabbajack technology called Stock Game. What this essentially 
 
 ### :telescope: Graphical Post-Processing 
 
-AVO-NG uses Solas weathers for its weather mod and the Lux suite for lighting improvements. By default, the list uses E.V.C ENB which complements it perfectly. If you wish to change the ENB, an ENB manager is included to facilitate this.
+AVO-NG uses Solas weathers for its weather mod and Enhanced Lighting for ENB + Relighting Skyrim for lighting improvements. By default, the list uses E.V.C ENB which complements it perfectly. If you wish to change the ENB, an ENB manager is included to facilitate this.
 
 Skyrim Upscaler is also included, configured in DLAA mode to enable ENB comatability. This is disabled by default, but can easily be enabled through the ENB manager.
 
