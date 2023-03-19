@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0 RC 2
+
+**Info**:
+- Adjusted ini files with help of DestinySlayer (Huge thanks to you!)
+- Removed Doahnique's carts & Skyland Night sky due to issues.
+
 ## 4.0 RC 1
 
 **Info**:
