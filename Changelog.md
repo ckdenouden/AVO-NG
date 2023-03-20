@@ -1,5 +1,31 @@
 # Changelog
 
+## 4.0 RC 4
+
+**Info**
+- Adjusted Load order to fix some ENB issues.
+- Further adjusted size of some mods to improve performance in areas.
+- Further tweaks to ini's
+- Reverted to mods in RC 1 due to better overall look.
+
+*Updated*
+- Spaghetti's Cities AIO
+- Tamrielic Distribution
+
+*Added*
+ - Natural Waterfalls
+ - Illustrious Whiterun
+
+*Removed*
+- Cathedral Water
+- ELE
+- FYX mods (too many to list)
+- MLOS
+- More Wooden Bridges
+- SkyVRaan Water Patcher
+- WaterMod
+- Water In Wells
+
 ## 4.0 RC 3
 
 **Info**:
