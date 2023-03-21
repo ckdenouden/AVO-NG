@@ -153,7 +153,7 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 
 ### :bookmark: In-Game MCM options
 
-AVO-NG has all it's MCM options pre-configured via MCM recorder. If you wish to change any settings, you can do so.
+AVO-NG has no required MCM options to be selected. If you wish to change any settings, you can do so.
 
 ### :horse_racing: Starting the Game
 
