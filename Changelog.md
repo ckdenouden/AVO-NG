@@ -1,5 +1,27 @@
 # Changelog
 
+## 4.0 RC 5
+
+**Info**
+- Fixed issues with ice in Steepfall Burrow
+- Fixed low res beds.
+- Fixed Godrays.
+- Regenned lods
+
+*Updated*
+- Advanced Notification Log
+- Patched for W4ENB - LUX - AIF
+- Spaghetti's Cities AIO
+
+*Added*
+- Glacier Lod Meshes
+- Glacierslab
+- SC Glacierslab
+
+*Removed*
+- IMR
+- Skyrim Remastered Ice
+
 ## 4.0 RC 4
 
 **Info**
