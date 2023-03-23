@@ -17,9 +17,11 @@
 - Glacier Lod Meshes
 - Glacierslab
 - SC Glacierslab
+- Xavbio Glass Armor retex
 
 *Removed*
 - IMR
+- Resurgence Glass
 - Skyrim Remastered Ice
 
 ## 4.0 RC 4
