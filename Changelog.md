@@ -4,6 +4,7 @@
 **Info**
 - Finally fixed issues with Ice (Thanks Lala for reporting)
 - Fixed Godrays (Thanks Lala for reporting)
+- Reverted Wolves to earlier versions to improve consistency.
 
 *Updated*
 - ENBSeries
