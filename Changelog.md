@@ -1,6 +1,16 @@
 # Changelog
 
-## 4.0 RC 5
+## RC 6
+**Info**
+- Finally fixed issues with Ice (Thanks Lala for reporting)
+- Fixed Godrays (Thanks Lala for reporting)
+
+*Updated*
+- Natural Waterfalls
+- Xavbio's Imperial Armor Retexture
+- Xavbio's Steel Armor Retexture
+
+## RC 5
 
 **Info**
 - Fixed issues with ice in Steepfall Burrow
@@ -24,7 +34,7 @@
 - Resurgence Glass
 - Skyrim Remastered Ice
 
-## 4.0 RC 4
+## RC 4
 
 **Info**
 - Adjusted Load order to fix some ENB issues.
@@ -50,7 +60,7 @@
 - WaterMod
 - Water In Wells
 
-## 4.0 RC 3
+## RC 3
 
 **Info**:
 - Reworked water and waterfalls to provide greater consistency and performance.
@@ -74,13 +84,13 @@
  - Lux Orbis
  - Water For ENB
 
-## 4.0 RC 2
+## RC 2
 
 **Info**:
 - Adjusted ini files with help of DestinySlayer (Huge thanks to you!)
 - Removed Doahnique's carts & Skyland Night sky due to issues.
 
-## 4.0 RC 1
+## RC 1
 
 **Info**:
 - Adjusted resolution of certain files to improve performance w/ no cost to visual quality.
@@ -108,7 +118,7 @@
 - Spaghetti's Towns - Karthwasaten
 - Rum Induced Mountains
 
-## 4.0 Beta 3
+## Beta 3
 
 **Info**:
 - Fixed issue with potion models in the UI.
@@ -117,21 +127,21 @@
 - Repatched where necessary.
 - Regenned lods.
 
-## 4.0 Beta 2
+## Beta 2
 
 **Info**:
 - Swapped to steam based stock game installation.
 - Swapped base game files for steam versions.
 - Removed Root Builder.
 
-## 4.0 Beta 1
+## Beta 1
 
 **Info**:
 - Further tweaked ini files to improve performance
 - Regenerated Lods using "The Animonculory Settings" to improve performance.
 - Tweaked ENB's to fit into vision a bit better.
 
-## 4.0 Alpha 2
+## Alpha 2
 
 **Info**:
 - Swapped tree model to hopefully improve performance.
@@ -141,7 +151,7 @@
 - Regenned lods.
 - Ruvaak Dahmaan enabled by default.
 
-## 4.0 Alpha 1
+## Alpha 1
 
 **Info**:
 - Major rebuild of entire list utilising new techniques.
