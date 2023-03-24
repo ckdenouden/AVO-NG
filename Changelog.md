@@ -6,6 +6,7 @@
 - Fixed Godrays (Thanks Lala for reporting)
 
 *Updated*
+- ENBSeries
 - Natural Waterfalls
 - Xavbio's Imperial Armor Retexture
 - Xavbio's Steel Armor Retexture
