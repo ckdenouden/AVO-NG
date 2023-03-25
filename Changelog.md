@@ -13,6 +13,8 @@
 ## RC 8
 **Info**:
 - Fixed mesh issues with Weapons.
+- Added: Another KS Hairdos Replacer, KS Hair SMP, SC KS Hairdos Retextured, Spaghetti's Shors Stone
+- Removed: Kala's Eyes.
 
 ## RC 7
 **Info**:
