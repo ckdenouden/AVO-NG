@@ -10,6 +10,10 @@
 - Bodys are now much more realistic with weight sliders actually changing things.
 - Lighting is now vastly improved and much more realistic
 
+## RC 8
+**Info**:
+- Fixed mesh issues with Weapons.
+
 ## RC 7
 **Info**:
 - Switched up character visuals to provide greater consistency and fidelity.
