@@ -1,5 +1,22 @@
 # Changelog
 
+## 4.0.0 - "Return to Tamriel"
+
+**Info**
+- Major rebuild of list from 3.x
+- Removed GOG Support (Due to WJ errors)
+- Removed Root Builder in favour of Stock Game setup
+- Races are now more realistic and have per-race textures
+- Bodys are now much more realistic with weight sliders actually changing things.
+- Lighting is now vastly improved and much more realistic
+
+## RC 7
+**Info**:
+- Switched up character visuals to provide greater consistency and fidelity.
+- Regenned Bodyslide.
+- Added: BNP Eyes, BNP Female, BNP Male, BNP Teeth, HIMBO, HIMBO Imperial Retexture Refit, Racial Skin Varience - SPID, Resurgence HIMBO Refits.
+- Removed: Eyes of Beauty, Mature Skin, SC Mature Skin Specs, Tempered Skins Male
+
 ## RC 6
 **Info**
 - Finally fixed issues with Ice (Thanks Lala for reporting)
