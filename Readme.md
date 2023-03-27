@@ -33,7 +33,7 @@ The premier graphical overhaul for Skyrim Special Edition, **Animonculory Visual
 
 The Next Generation (NG for short) version of Animonculory Visual Overhaul seeks to being the game up to modern standards without drastically changing the things that make Skyrim Skyrim. Featuring minimal tweaks to settlements, full creation club integration, a comprehensive graphical overhaul and no feature creep, it remains the perfect base to build off.
 
-AVO-NG replaces and supersedes previous versions/Editions of Animonculory Visual Overhaul and, as a result, is **not compatible** with saves made using the older versions. Major engine and graphical changes have been made which **will** cause you to crash.
+AVO-NG replaces and supersedes previous versions/editions of Animonculory Visual Overhaul and, as a result, is **not compatible** with saves made using the older versions. Major engine and graphical changes have been made which **will** cause you to crash.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -60,7 +60,7 @@ Space required: Approx 162GB (Downloads included)
 
 ## :page_facing_up: Installation
 
-:warning: AVO-NG requires a **COMPLETELY UNMODIFIED** installation of the **LATEST VERSION** of Skyrim. :warning:
+:warning: :exclamation: **AVO-NG REQUIRES THE FULL PAID UPDATE TO SKYRIM. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
 Installing AVO-NG is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
@@ -128,11 +128,11 @@ AVO-NG utilises a Wabbajack technology called Stock Game. What this essentially 
 
 ### :telescope: ENB
 
-AVO-NG uses Solas weathers for its weather mod and Enhanced Lighting for ENB + Relighting Skyrim for lighting improvements. By default, the list uses E.V.C ENB which complements it perfectly. If you wish to change the ENB, an ENB manager is included to facilitate this.
+AVO-NG uses [Solas weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) for its weather mod and the full [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) suite for lighting improvements. By default, the list uses [E.V.C ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743) which complements it perfectly. If you wish to change the ENB, an ENB manager is included to facilitate this.
 
 ### :telescope: Upscaler/TAA
 
-Skyrim Upscaler is also included, configured in DLAA mode to enable ENB comatability. You will need to enable it in game by pressing the `End` key on your keyboard. 
+[Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is also included, configured in DLAA mode to enable ENB comatability. You will need to enable it in game by pressing the `End` key on your keyboard. 
 
 If you do not have an Nvidia GPU, set the mode to `TAA` to ensure that the antialiasing works properly.
 
@@ -153,7 +153,14 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 
 ### :bookmark: In-Game MCM options
 
-AVO-NG has no required MCM options to be selected. If you wish to change any settings, you can do so.
+AVO-NG has no required MCM options to be selected, however there are a few recommended ones.
+
+- Mists of Tamriel
+	- Volumetric Mists -> Subtle	
+- SmoothCam
+	- Load Preset
+
+You are welcome to change any others to achieve your desired setup.
 
 ### :horse_racing: Starting the Game
 
