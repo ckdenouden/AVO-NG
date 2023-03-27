@@ -2,6 +2,8 @@
 
 ## 4.0.0 - "Return to Tamriel"
 
+**EST Release Date**: `4/4/23`
+
 **Info**
 - Major rebuild of list from 3.x
 - Removed GOG Support (Due to WJ errors)
