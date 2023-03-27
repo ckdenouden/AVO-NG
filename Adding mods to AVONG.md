@@ -49,28 +49,6 @@ No custom data is used in these patches so you can just simply run them.
 
 After positioning these in the correct section, open up [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) and follow the steps listed.
 
-## Changing the Graphical Post Processing
-
-To change the ENB, simply download your preferred preset, install it in MO2 making sure it's in a folder called `Root` and copy across the ENB dll files from one of the other ENB's. Activate your ENB preset and then you now have a new ENB preset.
-
-### Detailed instructions
-
-1. Launch Mod Organizer 2.
-2. Click on the `Spanner and Screwdriver` icon in MO2 and select `Root Builder`.
-3. Tick the `Installer` checkbox under `Settings`.
-
-![Rootbuilder config](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/RootbuilderConfig.webp)
-
-4. Add the ENB as a new mod in MO2. Rootbuilder should assign it properly.
-5. Verify that Rootbuilder has installed the ENB properly. It should look similar to the picture below:
-
-![ENB Rootbuilder Check](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ENBRootBuild.webp)
-
-**NOTE - This picture is missing the required DLL files. Ensure you have copied them across!**
-
-6. Activate your new preset.
-7. Enjoy your new preset.
-
 ## Adding Mods
 
 Move every addition you make **above** the Synthesis and DynDOLOD esps. There is 200 free `ESP/ESM` slots in AVONG for you to use. Don't consider that a competition though as less is more and ESPFE (ESP flagged ESL) are often a better choice.
