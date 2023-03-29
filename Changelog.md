@@ -4,13 +4,35 @@
 
 **EST Release Date**: `4/4/23`
 
-**Info**
-- Major rebuild of list from 3.x
-- Removed GOG Support (Due to WJ errors)
-- Removed Root Builder in favour of Stock Game setup
-- Races are now more realistic and have per-race textures
-- Bodys are now much more realistic with weight sliders actually changing things.
-- Lighting is now vastly improved and much more realistic
+**Changes from Release Candidate 8**
+- Fixed road alpha issue near Solitude
+- Regenned all genned files
+
+<Details>
+
+**Updated**
+- Cathedral 3D Mountain Flowers BOS
+- Conditional Expressions
+- DynDOLOD, DynDOLOD Resources
+- DynDOLOD DLL NG
+- Faster HDT-SMP
+- Happy Little Trees DynDOLOD Addon
+- Iconic Statues
+- Natural Waterfalls
+- Project ja-Kha'jay
+- Racial Skin Varience
+- Resurgence Artifacts
+- Tanrielic Distribution.
+
+**Added**
+- Mihail's Cow
+- Sleek Wolf Armor
+- Xavbio's Wolf armor and Weapons.
+ 
+**Removed**
+- Rally's Shaggy Cows
+ 
+ </Details>
 
 ## Release candidates
 
