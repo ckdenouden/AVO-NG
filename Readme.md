@@ -1,6 +1,6 @@
 # :evergreen_tree: Animonculory Visual Overhaul - Next Generation (AVO-NG)
 
-![image](https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp)
+![image](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/AVO-NG.webp)
 
 Wabbajack Modlist Installer by The Animonculory
 
