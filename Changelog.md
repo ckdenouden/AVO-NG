@@ -2,14 +2,37 @@
 
 ## 4.0.0 - "Return to Tamriel"
 
-**EST Release Date**: `4/4/23`
+**EST Release Date**: `TBC`
 
-**Changes from Release Candidate 8**
-- Fixed road alpha issue near Solitude
+**Changes from Release Candidate 9**
+- Enabled Complex parallax to take advantage of new landscape and mountain textures
 - Regenned all genned files
 
 <Details>
 
+**Added**
+- Majestic Mountains Parallax
+- Majestic Landscapes
+- Xavbio's Nordic Carved Armor
+ 
+**Removed**
+- ERM Mountains
+- Fluffy Snow
+- Nordic Shores 
+- Resurgence Nordic
+- Septentrional Landscapes
+ 
+ </Details>
+
+## Release candidates
+
+<details>
+
+### RC 9
+**Changes from Release Candidate 8**
+- Fixed road alpha issue near Solitude
+- Regenned all genned files 
+ 
 **Updated**
 - Cathedral 3D Mountain Flowers BOS
 - Conditional Expressions
@@ -30,14 +53,9 @@
 - Xavbio's Wolf armor and Weapons.
  
 **Removed**
-- Rally's Shaggy Cows
+- Rally's Shaggy Cows 
+
  
- </Details>
-
-## Release candidates
-
-<details>
-
 ### RC 8
 **Info**:
 - Fixed mesh issues with Weapons.
