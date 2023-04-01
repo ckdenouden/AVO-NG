@@ -5,10 +5,40 @@
 **EST Release Date**: `TBC`
 
 **Changes from Release Candidate 9**
-- Enabled Complex parallax to take advantage of new landscape and mountain textures
-- Regenned all genned files
+- Fixed snow shaders issues
+- Fixed borked meshes in the rift
+- Fixed borked blackreach ceiling
+- Updated mods which required
+- Regenned all Lod files
 
 <Details>
+
+**Updated**
+- Natural Waterfalls
+- Real Dwemer Pipes  
+- Spring Sneak Movement
+- Synthesis 
+- USMP
+ 
+**Added**
+- Better Dynamic Snow V2 
+- Kanj's Atronachs 
+- Lux Illustrious Whiterun Mesh Patch
+- Vampires have claws
+ 
+**Removed**
+- Shaders of Snow
+ 
+ </Details>
+
+## Release candidates
+
+<details>
+
+### RC 10
+**Changes from Release Candidate 9**
+- Enabled Complex parallax to take advantage of new landscape and mountain textures
+- Regenned all genned files
 
 **Added**
 - Majestic Mountains Parallax
@@ -22,12 +52,6 @@
 - Resurgence Nordic
 - Septentrional Landscapes
  
- </Details>
-
-## Release candidates
-
-<details>
-
 ### RC 9
 **Changes from Release Candidate 8**
 - Fixed road alpha issue near Solitude
