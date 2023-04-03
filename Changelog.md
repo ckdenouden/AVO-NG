@@ -2,9 +2,43 @@
 
 ## 4.0.0 - "Return to Tamriel"
 
-**EST Release Date**: `TBC`
+**EST Release Date**: `07/04/2023`
 
-**Changes from Release Candidate 9**
+**Changes from Release Candidate 11**
+- Fixed issues with MipMaps on Xavbio armor retextures (Credit to Aljo and Bingus for the fix)
+- Fixed issues with Majestic Landscapes and Mountains (Credit to T4, RA2 & AgentW)
+- Updated mods which required
+- Regenned all Lod files
+
+<Details>
+
+**Updated**
+- Better Balanced Backpacks
+- Gloomy Creation Club Backpacks
+- Magic Levelling Fix 
+- Majestic Landscapes
+- Majestic Mountains
+- Markarth Lod Unlock 
+- Project ja-Kha'jay 
+- Vampires have claws
+ 
+**Added**
+- dunFolgunthurBossBattle Script Fix
+- QUI
+- Word Wall trigger Fix 
+ 
+**Removed**
+- Stay on System Page NG
+ 
+ </Details>
+
+## Release candidates
+
+<details>
+
+### RC 11 
+ 
+**Changes from Release Candidate 10**
 - Fixed snow shaders issues
 - Fixed borked meshes in the rift
 - Fixed borked blackreach ceiling
@@ -27,14 +61,8 @@
 - Vampires have claws
  
 **Removed**
-- Shaders of Snow
+- Shaders of Snow 
  
- </Details>
-
-## Release candidates
-
-<details>
-
 ### RC 10
 **Changes from Release Candidate 9**
 - Enabled Complex parallax to take advantage of new landscape and mountain textures
