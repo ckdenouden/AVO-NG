@@ -199,11 +199,11 @@ Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), p
 You are welcome to [contribute](https://github.com/The-Animonculory/AVO-NG/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/AVO-NG/blob/main/Changelog.md) before you do.
 
 ## :guardsman: The Animonculory Team
-- Althro - Leader & Head of Development (Author of [ADT](https://github.com/The-Animonculory/ADT/blob/main/README.md), [AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul) & Tinvaak)
+- Althro - Leader & Head of Development (Author of [ADT](https://github.com/The-Animonculory/ADT/blob/main/README.md), [AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul))
 - Styyx - Senior Management Team & Dev Team (Author of [Ruvaak](https://github.com/chri3i/Ruvaak-Readme))
 - Chef/Para0x - Senior Management Team & Dev Team (Author of [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Readme.md))
 - The Spaniard -Senior Management Team, Documentation & Dev Team
 - GuitarBarbarian/KFC - Senior Management Team
+- DestinySlayer - Dev Team, Testing & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
 - Abandoned by Arkay - Dev Team & Testing (Author of [DNGG](https://github.com/Arkay-1248/Do-Not-Go-Gentle))
 - Astro - Dev Team & Testing
-- DestinySlayer - Dev Team, Testing & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
