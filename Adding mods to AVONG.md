@@ -47,11 +47,17 @@ No custom data is used in these patches so you can just simply run them.
 
 ## Regenerating AVONG's Lods
 
-After positioning these in the correct section, open up [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) and follow the steps listed.
+**NOTE**: The process for generating AVONG's is more complex than on previous builds. You will need to deactivate Mists of Tamriel before generating Lods.
+
+The order to do LOD regeneration is: xLodGEN, ACMOS Road Gen, TexGen, DynDOLOD.
+
+Open up [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) and follow the steps listed.
+
+**NOTE**: Due to the way Majestic Landscapes works, you will need to deactivate the mod before running xLODGEN and enable it after running.
 
 ## Adding Mods
 
-Move every addition you make **above** the Synthesis and DynDOLOD esps. There is 200 free `ESP/ESM` slots in AVONG for you to use. Don't consider that a competition though as less is more and ESPFE (ESP flagged ESL) are often a better choice.
+Move every addition you make **above** the Synthesis and DynDOLOD esps. There is 191 free `ESP/ESM` slots in AVONG for you to use. Don't consider that a competition though as less is more and ESPFE (ESP flagged ESL) are often a better choice.
 
 ### DLL Plugins
 
