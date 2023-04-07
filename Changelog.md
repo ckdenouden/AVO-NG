@@ -5,12 +5,38 @@
 **EST Release Date**: `07/04/2023`
 
 **Changes from Release Candidate 11**
+- Fixed issues with Mushrooms (Thanks ABA)
+- Fixed issues with Cathedral Thislte (Thanks ABA)
+- Regenned all Lod files
+
+<Details>
+
+**Updated**
+- Book Covers Skyrim
+- Faster HDT
+- Project ja-Kha'jay 
+ 
+**Added**
+- Esbern Voice Consistency Fix
+- Mushroom 2k
+ 
+**Removed**
+- Tardis Mushrooms 
+ 
+ </Details>
+
+## Release candidates
+
+<details>
+
+### RC 12
+
+**Changes from RC 11** 
 - Fixed issues with MipMaps on Xavbio armor retextures (Credit to Aljo and Bingus for the fix)
 - Fixed issues with Majestic Landscapes and Mountains (Credit to T4, RA2 & AgentW)
 - Updated mods which required
 - Regenned all Lod files
 
-<Details>
 
 **Updated**
 - Better Balanced Backpacks
@@ -28,14 +54,8 @@
 - Word Wall trigger Fix 
  
 **Removed**
-- Stay on System Page NG
+- Stay on System Page NG 
  
- </Details>
-
-## Release candidates
-
-<details>
-
 ### RC 11 
  
 **Changes from Release Candidate 10**
@@ -44,8 +64,6 @@
 - Fixed borked blackreach ceiling
 - Updated mods which required
 - Regenned all Lod files
-
-<Details>
 
 **Updated**
 - Natural Waterfalls
