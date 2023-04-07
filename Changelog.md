@@ -7,6 +7,7 @@
 **Changes from Release Candidate 11**
 - Fixed issues with Mushrooms (Thanks ABA)
 - Fixed issues with Cathedral Thislte (Thanks ABA)
+- Relandscaped around Largashbur and Helgen to fix landscape tiling issues.
 - Regenned all Lod files
 
 <Details>
