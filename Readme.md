@@ -37,6 +37,11 @@ AVO-NG replaces and supersedes previous versions/editions of Animonculory Visual
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
+Curious as to what it looks like? Watch the showcases from [Dropped Ice Cream](https://www.youtube.com/@DroppedIceCreamMods) and [Biggie Boss](https://www.youtube.com/@biggie_boss) below.
+
+[![Ice Cream AVONG Showcase](https://img.youtube.com/vi/fpWHxQhO5kc/0.jpg)](https://www.youtube.com/watch?v=fpWHxQhO5kc)
+[![Biggie Boss AVONG Showcase](https://img.youtube.com/vi/HjYvh0kvpX8/0.jpg)](https://www.youtube.com/watch?v=HjYvh0kvpX8)
+
 ## :computer: System Requirements
 
 :exclamation: **AVO-NG DOES NOT SUPPORT GOG VERSIONS OF SKYRIM AE** :exclamation:
