@@ -137,7 +137,7 @@ AVO-NG uses [Solas weathers](https://www.nexusmods.com/skyrimspecialedition/mods
 
 ### :telescope: Upscaler/TAA
 
-[Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is also included, configured in DLAA mode to enable ENB comatability. You will need to enable it in game by pressing the `End` key on your keyboard. 
+[Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is also included, configured in DLAA mode to enable ENB compatability. You will need to enable it in game by pressing the `End` key on your keyboard. 
 
 If you do not have an Nvidia GPU, set the mode to `TAA` to ensure that the antialiasing works properly.
 
