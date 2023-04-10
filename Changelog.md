@@ -1,8 +1,14 @@
 # Changelog
 
+## 4.0.1.1
+
+**Info**:
+- Hotfix for missing Upscaler mod
+- Added: Suemer Eyes mesh to fix glowing eyes.
+
 ## 4.0.1
 
-**Released on:** `TBC`
+**Released on:** `10/04/2023`
 
 **Info**:
 - Fixed crash in Dark Brotherhood area
