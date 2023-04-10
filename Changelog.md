@@ -1,16 +1,38 @@
 # Changelog
 
+## 4.0.1
+
+**Released on:** `TBC`
+
+**Info**:
+- Fixed crash in Dark Brotherhood area
+- Flagged bugged hairtype as unplayable
+- Put everyone on a diet (changed bodyslides to be less thiccccc)
+- Regenned Lods and Bodyslide
+- Removed Bodyslide data for DB Robes replacer
+
+**Updated**
+- AVONG LOD Resources
+- AVONG Resources
+- Majestic Landscapes
+- Majestic Mountains Parallax
+- Spell Perk Item Distributer
+
+**Added**
+- Lod Unloading Bug Fix (Not 100% necessary, only use as last resort)
+- Spaghetti's Old Hroldan
+
 ## 4.0.0 - "Return to Tamriel"
 
-**EST Release Date**: `07/04/2023`
+**Release Date**: `07/04/2023`
+
+<Details>
 
 **Changes from Release Candidate 11**
 - Fixed issues with Mushrooms (Thanks ABA)
 - Fixed issues with Cathedral Thislte (Thanks ABA)
 - Relandscaped around Largashbur and Helgen to fix landscape tiling issues.
 - Regenned all Lod files
-
-<Details>
 
 **Updated**
 - Book Covers Skyrim
