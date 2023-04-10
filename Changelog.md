@@ -10,6 +10,7 @@
 - Put everyone on a diet (changed bodyslides to be less thiccccc)
 - Regenned Lods and Bodyslide
 - Removed Bodyslide data for DB Robes replacer
+- Set Upscaler to be disabled by default. If you want it, activate it in MO2 and in ENB Organizer
 
 **Updated**
 - AVONG LOD Resources
