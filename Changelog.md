@@ -17,9 +17,12 @@
 - Majestic Landscapes
 - Majestic Mountains Parallax
 - Spell Perk Item Distributer
+- Synthesis
 
 **Added**
 - Lod Unloading Bug Fix (Not 100% necessary, only use as last resort)
+- Sala Hair
+- Sala Hair SMP
 - Spaghetti's Old Hroldan
 
 ## 4.0.0 - "Return to Tamriel"
