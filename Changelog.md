@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.1
+
+**Released on:** `TBC`
+
+**Info**
+- Fixed issues with RBT
+- Updated: KID, RSV, E.V.C, Cath 3D flowers, Happ Logs, Natural Waterfalls, Anima Nera, EmbersXD
+- Added: Spaghetti Nightgate, Spaghetti Stonehills, Xavbio Silver
+- Experimental: Added profile with Grass Lod.
+
 ## 4.0.1.1
 
 **Info**:
