@@ -6,9 +6,38 @@
 
 **Info**
 - Fixed issues with RBT
-- Updated: KID, RSV, E.V.C, Cath 3D flowers, Happ Logs, Natural Waterfalls, Anima Nera, EmbersXD
-- Added: Spaghetti Nightgate, Spaghetti Stonehills, Xavbio Silver
+- Nazeem now has more swag. Guaranteed to improve your cloud district experience by 100%.
+- Reworked Loot integration. Now there is a tool built into MO2 which scans the load order to provide warnings on content.
 - Experimental: Added profile with Grass Lod.
+
+Updated: 
+- Anima Nera, Serana Replacer 
+- Cath 3D flowers
+- E.V.C
+- EmbersXD
+- Happ Logs
+- Keyword Item Distributor
+- Lod Model Library
+- Natural Waterfalls MM Patch
+- Natural Waterfalls
+- Racial Skin Variance
+- Smaller Cath 3D plants
+
+Added: 
+- B.O.O.B.I.E.S (Immersive Icons)
+- Child Dress Replacer
+- Eyes of Beauty AI Remaster
+- Grass Cache Fixes
+- I4 SkyUi Weapons Pack
+- Spaghetti Nightgate 
+- Spaghetti Stonehills
+- Worldspaces with Grass xEdit script
+- Xavbio Silver
+
+Removed: 
+- BNP Eyes
+- BNP Eyes addon
+- Redundant downloads
 
 ## 4.0.1.1
 
