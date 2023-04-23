@@ -1,43 +1,75 @@
 # Changelog
 
-## 4.1
+## 4.1 - "Clouds over CloudDistrictifornia"
 
 **Released on:** `TBC`
 
-**Info**
-- Fixed issues with RBT
-- Nazeem now has more swag. Guaranteed to improve your cloud district experience by 100%.
-- Reworked Loot integration. Now there is a tool built into MO2 which scans the load order to provide warnings on content.
-- Experimental: Added profile with Grass Lod.
+Info:
 
-Updated: 
-- Anima Nera, Serana Replacer 
+- Completely overhauled Nazeem to give 100% more cloud districtness. Guaranteed to improve immersion.
+- Fixed Giant Camp fire issues
+- Fixed issues with Racial Skin Variance
+- Fixed issues with weapon effects not sitting correctly on the meshes
+- Fixed overly reflective eyes
+- Reworked LOOT integration. Plugin now built into MO2 which advises on content errors/warnings.
+- Reworked some visuals to increate fidelityy and performance.
+
+Updated:
+- Anima Nera, Serana Replacer
 - Cath 3D flowers
-- E.V.C
+- E.V.C ENB
 - EmbersXD
-- Happ Logs
+- ENB binaries
+- Faster HDT SMP
+- Happy Little Logs
 - Keyword Item Distributor
 - Lod Model Library
-- Natural Waterfalls MM Patch
+- Mannequin Management
 - Natural Waterfalls
-- Racial Skin Variance
-- Smaller Cath 3D plants
+- Racial Skin Varience
+- Screenshot Helper
+- Smaller Cath 3D Plants
 
-Added: 
+Added:
 - B.O.O.B.I.E.S (Immersive Icons)
+- Believable Weapons
+- Cathedral 3D Pine Grass
 - Child Dress Replacer
+- DLC2dunSeekerInvisScript Fix
+- ERM - Enhanced Rocks and Mountains
+- ERM Lod Models
 - Eyes of Beauty AI Remaster
+- Fluffy Brighter Snow
 - Grass Cache Fixes
-- I4 SkyUi Weapons Pack
-- Spaghetti Nightgate 
-- Spaghetti Stonehills
-- Worldspaces with Grass xEdit script
-- Xavbio Silver
+- I4 SkyUI Weapons Pack
+- Ice Mesh Remaster
+- Mesh Patches for Lux and Lux Orbis
+- Northern Roads
+- Northern Roads Patches
+- Northern Shores
+- Rum Induced Mountains
+- Septentrional Landscapes
+- Sharpen Other Swords - Belieable Weapons Patch
+- Simplicity of Snow
+- Skyrim Remastered - Glacier and Ice IMR Edition
+- Spaghetti Towns AIO
+- Worldspaces with Grass xEdit Script
+- Xavbio's Silver Retextures
 
-Removed: 
+Removed:
+- Better Dynamic Snow
+- Blended Roads
+- Blended Roads Redone
 - BNP Eyes
 - BNP Eyes addon
-- Redundant downloads
+- Fantastic Grasses and where to find them
+- Individual Spaghetti's towns
+- Leanwolfs Better Shaped Weapons
+- Majestic Landscapes
+- Majestic Mountains
+- Markarth Road Finished
+- Natural Waterfalls MM Patch
+- Redundant Downloads
 
 ## 4.0.1.1
 
