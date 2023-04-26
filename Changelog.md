@@ -2,7 +2,7 @@
 
 ## 4.1 - "Clouds over CloudDistrictifornia"
 
-**Released on:** `TBC`
+**Released on:** `26/04/2023`
 
 Info:
 
@@ -36,6 +36,7 @@ Added:
 - Cathedral 3D Pine Grass
 - Child Dress Replacer
 - DLC2dunSeekerInvisScript Fix
+- DLC2MiraakScriptFix
 - ERM - Enhanced Rocks and Mountains
 - ERM Lod Models
 - Eyes of Beauty AI Remaster
@@ -51,8 +52,10 @@ Added:
 - Septentrional Landscapes
 - Sharpen Other Swords - Belieable Weapons Patch
 - Simplicity of Snow
+- Skyland Blacksmith
 - Skyrim Remastered - Glacier and Ice IMR Edition
 - Spaghetti Towns AIO
+- Vampire Lord (Iconic Death)
 - Worldspaces with Grass xEdit Script
 - Xavbio's Silver Retextures
 
