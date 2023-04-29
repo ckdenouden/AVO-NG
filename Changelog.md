@@ -1,8 +1,63 @@
 # Changelog
 
+## 4.2 - "Return to the roots"
+
+Info: 
+- Reworked more textures to provide more consistency with new setup.
+- Fixed issues with grass in towns
+- Improved performance in some areas.
+- Tweaked files for new ENB and Weather setup.
+- Adjusted some overwrites to ensure better consistency.
+
+<Details>
+
+Updated:
+- AVONG LOD Resources
+- AVONG Resources
+- B.O.O.B.I.E.S (Immersive Icons)
+- Cath 3D flowers
+- Complementary Grass Fixes
+- DynDOLOD DLL NG
+- DynDOLOD, DynDOLOD Resources
+- Faster HDT SMP
+- Navigator - Navmesh Fixes
+- Resurgence Artifacts
+- Simplicity of Snow
+- Skyland Forge
+- Spell Perk Item Distributer
+- Vampire Lord (Iconic Death)
+
+Added:
+- Asura's Scrumptiouos Supplement for Boobies
+- Blended Roads
+- Blended Roads Redone
+- Fantastic Grasses
+- Obsidian Weathers
+- Obsidian Weathers MCM Patch
+- Rudy ENB Obsidian Weathers
+- Skyland Landscapes
+- Skyland Landscapes Parallax
+- SR Exterior Cities
+- Xavbio's Leather Retextures
+
+Removed:
+- Cathedral 3D Pine Grass
+- Fluffy Brighter Snow
+- Grass Cache Fixes
+- Northern Roads
+- Northern Roads Patches
+- Northern Shores
+- Rum Induced Mountains
+- Septentrional Landscapes
+- Worldspaces with Grass xEdit Script
+
+</Details>
+
 ## 4.1 - "Clouds over CloudDistrictifornia"
 
 **Released on:** `26/04/2023`
+
+<Details>
 
 Info:
 
@@ -74,15 +129,23 @@ Removed:
 - Natural Waterfalls MM Patch
 - Redundant Downloads
 
+</Details>
+
 ## 4.0.1.1
+
+<Details>
 
 **Info**:
 - Hotfix for missing Upscaler mod
 - Added: Suemer Eyes mesh to fix glowing eyes.
 
+</Details>
+
 ## 4.0.1
 
 **Released on:** `10/04/2023`
+
+<Details>
 
 **Info**:
 - Fixed crash in Dark Brotherhood area
@@ -105,6 +168,8 @@ Removed:
 - Sala Hair
 - Sala Hair SMP
 - Spaghetti's Old Hroldan
+
+</Details>
 
 ## 4.0.0 - "Return to Tamriel"
 
@@ -130,7 +195,7 @@ Removed:
 **Removed**
 - Tardis Mushrooms 
  
- </Details>
+</Details>
 
 ## Release candidates
 
