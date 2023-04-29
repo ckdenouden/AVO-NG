@@ -147,6 +147,34 @@ The mod comes disabled by default. To enable it, activate `Skyrim Upscaler - DLS
 
 **NOTE**: Screenshots save to `AVONG/Game Root`.
 
+***
+
+### :telescope: Using the ENB Manager
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `ENB Organizer` from Mod Organizer 2.
+
+![Selection of ENB manager in Mod organizer](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/ENBMan%201.webp)
+
+If the image below comes up, simply press OK. It is nothing to be concerned about.
+
+![Warning that may appear when launching ENB manager](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/ENBMan%202.webp)
+
+On the left hand side of the application, above the plus icon there is a symbol showing three lines.
+
+![Three lines symbol on left side of application](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/ENBMan%203.webp)
+
+Click on the symbol and the menu should appear. The menu should look like this:
+
+![ENB manager menu accessed via clicking on the symbol](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/ENBMan%204.webp)
+
+Click on `Presets` and it will take you to the presets area. To activate/deactivate an item, simply press on the slider.
+
+**NOTE**: This may look different to the picture below.
+
+![Presets page in ENB manager showing the various installed presets](https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/ENBMan%205.webp)
+
+For adding your own presets and more details, take a look at ENB Organizer for more information.
+
 ## :arrow_forward: Playing the List
 
 ### Ultrawide Setup
